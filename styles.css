@@ -1,0 +1,28 @@
+body{padding: 5em;}
+h1{
+    color: #6540D1;
+    font-size: 50px; 
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+h2{
+    color: #967BE3;
+    font-size: 20px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    
+}
+body{background-color: #E1C9FF}
+h1,h2{text-align: center;}
+
+
+p{width:750px;
+    color: #6540D1;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+/*The next rule centers and spaces the media*/
+img, video, audio, canvas, p{
+    display: block; 
+    margin: 0 auto;
+    padding-bottom: 2em}
+.credits{font-size: 0.5em;
+    color: rgb(96,81,139);}
